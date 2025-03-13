@@ -1,0 +1,2 @@
+# React_Resturant
+ React Restaurant Website - GitHub Description 🍽️ React Restaurant Website is a modern, fully responsive restaurant website built using React.js and Tailwind CSS. This project showcases an elegant UI with smooth animations, interactive menus, and a seamless user experience.  🚀 Features: ✅ Fully responsive & mobile-friendly design 📱 ✅ Interactive menu with categories 🍔 ✅ Smooth scrolling & animations ✨ ✅ Online booking & contact form 📩 ✅ Fast performance with optimized assets ⚡ ✅ Dark/Light mode support 🌗 (optional)
